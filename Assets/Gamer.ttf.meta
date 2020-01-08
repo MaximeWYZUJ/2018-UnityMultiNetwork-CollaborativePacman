@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7d311f382f3bb0741afc066183c7a9e8
+timeCreated: 1525509754
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gamer
+  fontNames:
+  - Gamer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
